@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %> 
 
-<title>Insert title here</title>
+<title>cricket</title>
 </head>
 <body>
 <form:form action="createTest" modelAttribute="testBo">
